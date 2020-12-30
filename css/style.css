@@ -1,0 +1,21 @@
+.err{
+    color: red;
+   position: relative;
+    top: -30px;
+    left: -5px;
+    display: none;
+   
+}
+.succ{
+    color: green;
+    position: relative;
+    top: -30px;
+    left: -10px;
+    display: none;
+}
+.error{
+    display: inline;
+}
+.success{
+    display: inline;
+}
